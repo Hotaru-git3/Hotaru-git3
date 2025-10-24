@@ -1,56 +1,49 @@
-<h2 align="center">Hi 👋! My name is Zidane and I'm a Front End Dev and Network Engineer from Indonesia 🇮🇩</h2>
-
+<!-- Header Section -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hotaru-git3&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=20" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hotaru-git3&show_icons=true&include_all_commits=true&theme=dracula&border_radius=20&hide_border=false" height="150" alt="stats graph" />
+  <!-- Animated GIF -->
+  <img src="https://media.tenor.com/3S8uIXRkGkkAAAAC/programming.gif" width="300" alt="Coding GIF" />
+
+  <h1>Hi! My name is Zidane and I'm a Front End Dev and Network Engineer from Indonesia</h1>
 </div>
 
 ---
 
+<!-- GitHub Stats Section -->
 <div align="center">
-  <img align="right" height="150" style="border-radius:15px;" src="https://media.tenor.com/taxnt3zsc_4AAAAi/seseren-the-herta.gif" alt="Herta gif"/>
-  
-  <h3>🧠 Tech Stack</h3>
-  
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Hotaru-git3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Hotaru-git3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+---
+
+<!-- Tech Stack Section -->
+<div align="center">
+  <h3>Tech Stack</h3>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-    <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" />
-    <img src="https://cdn.simpleicons.org/git/F05032" height="30" />
-    <img src="https://cdn.simpleicons.org/github/181717" height="30" />
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" />
-    <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" />
-    <img src="https://cdn.simpleicons.org/nginx/009639" height="30" />
-    <img src="https://cdn.simpleicons.org/vercel/000000" height="30" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,nodejs,vercel,nginx" alt="Tech Stack" />
   </p>
 </div>
 
 ---
 
+<!-- Connect Section -->
 <div align="center">
   <h3>🌐 Connect with Me</h3>
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge&label=" height="35" />
-  </a>
-  <a href="https://www.instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge&label=" height="35" />
-  </a>
-  <a href="https://discord.com/users/YOUR_USER_ID">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge&label=" height="35" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge&label=" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge&label=" height="35" />
-  </a>
+  <p>
+    <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-magenta?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/DISCORD-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
 </div>
 
 ---
 
-<p align="center">
-  <i>✨ "Keep learning, keep building, and stay curious." ✨</i>
-</p>
+<!-- Footer Section -->
+<div align="center">
+  <blockquote>
+    “Keep learning, building, and stay curious.”
+  </blockquote>
+  <img src="https://media.tenor.com/taxnt3zsc_4AAAAi/seseren-the-herta.gif" width="120" alt="Witch GIF" />
+</div>
