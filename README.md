@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img align="right" height="150" style="border-radius:15px;" src="https://tenor.com/view/miss-herta-herta-madam-herta-the-herta-honkai-star-rail-gif-4841580729347220754.gif" alt="Herta gif"/>
+  <img align="right" height="150" style="border-radius:15px;" src="https://tenor.com/pLcRzL5SAUI.gif" alt="Herta gif"/>
   
   <h3>🧠 Tech Stack</h3>
   
@@ -51,6 +51,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hotaru-git3/Hotaru-git3/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <i>✨ "Keep learning, keep building, and stay curious." ✨</i>
+</p>
