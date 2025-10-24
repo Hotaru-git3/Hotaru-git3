@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img align="right" height="150" style="border-radius:15px;" src="https://tenor.com/pLcRzL5SAUI.gif" alt="Herta gif"/>
+  <img align="right" height="150" style="border-radius:15px;" src="https://media.tenor.com/taxnt3zsc_4AAAAi/seseren-the-herta.gif" alt="Herta gif"/>
   
   <h3>🧠 Tech Stack</h3>
   
